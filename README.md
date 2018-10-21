@@ -1,4 +1,6 @@
-MCAP LR algorithm with L2 regularization on Metsis et al. paper dataset.
+Logistic Regression and Perceptron based classifiers:
+
+Used MCAP LR algorithm with L2 regularization on Metsis et al. paper dataset.
 
 Used gradient descent algorithm for convergence.
 
